@@ -1,4 +1,4 @@
-# PlantDoc: A Dataset for Visual Plant Disease Detection_project1111
+# PlantDoc: A Dataset for Visualization of Plant Disease Detection_projects
 
 ## Authors ##
 Davinder Singh*, Naman Jain*, Pranjali Jain*, Pratik Kayal*, Sudhakar Kumawat and Nipun Batra
